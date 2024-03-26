@@ -1,0 +1,103 @@
+//HEADER
+header nav {
+    position: fixed;
+    width: 100vw;
+    font-weight: 300;
+    color: #000;
+    background-color: #dcdcdc;
+    z-index: 10;
+}
+
+.nav-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    @media screen and (max-width: $breakpoint-mobile) {
+        flex-direction: column;
+        padding-top: 20px;
+        gap: 30px;
+    }
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+
+    @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    @media screen and (max-width: $breakpoint-mobile) {
+        flex-direction: column;
+        gap: 10px;
+    }
+  
+    &__link--pf {
+        display: flex;
+        gap: 30px;
+
+         //Lien hover et active
+        &-home{
+            &:hover{text-decoration: 4px overline #FCD7AA;}
+            @media screen and (max-width: $breakpoint-mobile) {
+                &:active{color: #FCD7AA;}
+            }
+        }
+        &-pf{
+            &:hover{text-decoration: 4px overline #F6B0A6;}
+            @media screen and (max-width: $breakpoint-mobile) {
+                &:active{color: #F6B0A6;}
+            }
+        }
+        &-about{
+            &:hover{text-decoration: 4px overline #FBC7C3;}
+            @media screen and (max-width: $breakpoint-mobile) {
+                &:active{color: #F6B0A6;}
+            }
+        }
+        &-contact{
+            &:hover{text-decoration: 4px overline #A593AA;}
+            @media screen and (max-width: $breakpoint-mobile) {
+                &:active{color: #F6B0A6;}
+            }
+        }
+
+        @media screen and (max-width: $breakpoint-mobile) {
+            justify-content: center;
+        }
+    }
+    
+    &__link--rs {
+        display: flex;
+    }   
+}
+
+//LIEN
+nav a {
+    color: #000;
+    text-decoration: none;
+}
+
+//LOGO
+#logo img {
+    height: auto;
+    width: 30px;
+}
+
+//ICON
+.nav-item__link--rs-icone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 50px;
+
+    &-insta:hover{background: linear-gradient(#CC39A1, #FD533F, #FFD353);}
+
+    &-linkedin:hover{background: #0077B5;}
+}
+
+.fa-instagram, .fa-linkedin {font-size: 20px;}
