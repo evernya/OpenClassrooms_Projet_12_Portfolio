@@ -1,0 +1,40 @@
+//NAV HEADER & FOOTER
+.nav-item__link--pf {
+    display: flex;
+    gap: 30px;
+
+    //Lien hover et active
+    &-home {
+        &:hover, &:focus {text-decoration: 4px overline #FCD7AA;}
+        @media screen and (max-width: $breakpoint-mobile) {
+            &:active {color: #FCD7AA;}
+        }
+    }
+
+    &-pf {
+        &:hover, &:focus {text-decoration: 4px overline #F6B0A6;}
+        @media screen and (max-width: $breakpoint-mobile) {
+            &:active {color: #F6B0A6;}
+        }
+    }
+
+    &-about {
+        &:hover, &:focus {text-decoration: 4px overline #FBC7C3;}
+        @media screen and (max-width: $breakpoint-mobile) {
+            &:active {color: #F6B0A6;}
+        }
+    }
+
+    &-contact {
+        &:hover, &:focus {text-decoration: 4px overline #A593AA;}
+        @media screen and (max-width: $breakpoint-mobile) {
+            &:active {color: #F6B0A6;}
+        }
+    }
+
+    @media screen and (max-width: $breakpoint-mobile) {justify-content: center;}
+}
+
+.navlink-active {font-weight: 700;}
+
+.nav-item__link--rs {display: flex;}   
