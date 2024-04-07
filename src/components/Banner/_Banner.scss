@@ -1,4 +1,4 @@
-//BANNER
+//BANNER COMPREND TOUTES LES BANNIERS
 
 //ALL BANNER
 .banner {
@@ -10,18 +10,23 @@
 
     &__img {
         overflow: hidden;
+        @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+            position: relative;
+            height: 90%;
+        }
+
         @media screen and (max-width: $breakpoint-mobile) {
             position: relative;
             height: 90%;
         }
 
         &--home {
-            @media screen and (max-width: $breakpoint-mobile) {
-                left: -270px;
-            }
+            @media screen and (max-width: $breakpoint-mobile) {left: -270px;}
         }
 
         &--about {
+            @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {left: -315px;}
+
             @media screen and (max-width: $breakpoint-mobile) {
                 left: -235px;
                 top: 80px;

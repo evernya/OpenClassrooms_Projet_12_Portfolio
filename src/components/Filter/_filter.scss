@@ -1,10 +1,10 @@
-//Card
+//FILTER COMPREND CARD / GALLERY / SELECT
+
+//CARD
 .card__containt {
     position: relative;
 
-    img {
-        width: 100%;
-    }
+    img {width: 100%;}
 
     &--hover {
         position: absolute;
@@ -13,17 +13,14 @@
         width: 100%;
         height: 99%;
         background-color: rgba(0, 0, 0, 0.5);
-
         display: flex;
         justify-content: center;
         align-items: center;
         opacity: 0;
         transition: all .3s ease-in-out;
-
         color: #fff;
         font-size: 1.5em;
         font-weight: 400;
-        font-family: 'Quicksand', sans-serif;
 
         &:hover {
             opacity: 1;
@@ -31,7 +28,7 @@
     }
 }
 
-//Gallery
+//GALLERY
 .gallery {
     margin: 0 324px;
     display: inline-flex;

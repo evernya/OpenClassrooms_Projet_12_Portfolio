@@ -1,13 +1,3 @@
-//IMPORT
-
-//PAGES
-
-//LAYOUTS
-
-//COMPONENTS
-
-//ASSETS
-
 //CSS
 import "../../style/style.css";
 
