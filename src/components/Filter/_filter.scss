@@ -1,0 +1,86 @@
+//Card
+.card__containt {
+    position: relative;
+
+    img {
+        width: 100%;
+    }
+
+    &--hover {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 99%;
+        background-color: rgba(0, 0, 0, 0.5);
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        opacity: 0;
+        transition: all .3s ease-in-out;
+
+        color: #fff;
+        font-size: 1.5em;
+        font-weight: 400;
+        font-family: 'Quicksand', sans-serif;
+
+        &:hover {
+            opacity: 1;
+        }
+    }
+}
+
+//Gallery
+.gallery {
+    margin: 0 324px;
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+
+    @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {margin: 0;}
+    @media screen and (max-width: $breakpoint-mobile) {margin: 0;}
+
+    &__container {
+        width: 30%;
+        margin: 0;
+
+        @media screen and (max-width: $breakpoint-mobile) {width: 100%;}
+    }
+
+}
+
+//SELECT
+.select {
+    &__container {
+        display: flex;
+        justify-content: center;
+
+        &--btn {
+            border: none;
+            margin: 100px 25px 50px 25px;
+            background-color: transparent;
+            font-family: 'Quicksand', sans-serif;
+            font-size: 1em;
+            font-weight: 300;
+            color: #000;
+            cursor: pointer;
+
+            @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {margin: 50px 10px;}
+            @media screen and (max-width: $breakpoint-mobile) {margin: 50px 10px;}
+
+            &-t{&:hover, &:focus, &:active {text-decoration: 4px overline #6C757D;}}
+            &-edi{&:hover, &:focus {text-decoration: 4px overline #C7D7F2;}}
+            &-illu{&:hover, &:focus {text-decoration: 4px overline #AAD4D0;}}
+            &-photo{&:hover, &:focus {text-decoration: 4px overline #CFECCE;}}
+            &-perso{&:hover, &:focus {text-decoration: 4px overline #E8E5A9;}}
+        }
+    }
+}
+
+.btn-t-active{text-decoration: 4px overline #6C757D;}
+.btn-edi-active{text-decoration: 4px overline #C7D7F2;}
+.btn-illu-active{text-decoration: 4px overline #AAD4D0;}
+.btn-photo-active{text-decoration: 4px overline #CFECCE;}
+.btn-perso-active{text-decoration: 4px overline #E8E5A9;}
