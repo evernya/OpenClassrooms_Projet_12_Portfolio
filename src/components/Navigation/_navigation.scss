@@ -1,4 +1,19 @@
-//NAV HEADER & FOOTER
+//NAV
+//ICON
+.nav-item__link--rs-icone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 50px;
+
+    &-insta:hover{background: linear-gradient(#CC39A1, #FD533F, #FFD353);}
+
+    &-linkedin:hover{background: #0077B5;}
+}
+
+.nav-insta, .nav-linkedin {font-size: 20px;}
+
 .nav-item__link--pf {
     display: flex;
     gap: 30px;

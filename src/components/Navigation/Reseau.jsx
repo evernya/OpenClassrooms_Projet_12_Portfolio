@@ -16,10 +16,10 @@ export default function Reseau() {
     return (
         <div className="nav-item__link--rs">
             <Link to="https://www.instagram.com/e.chungyouchong/" target="blank">
-                <div className="nav-item__link--rs-icone nav-item__link--rs-icone-insta"><FontAwesomeIcon icon={faInstagram} /></div>
+                <div className="nav-item__link--rs-icone nav-item__link--rs-icone-insta nav-insta"><FontAwesomeIcon icon={faInstagram} /></div>
             </Link>
             <Link to="https://www.linkedin.com/in/emmanuelle-chung-you-chong-429a9b174/" target="blank">
-                <div className="nav-item__link--rs-icone nav-item__link--rs-icone-linkedin"><FontAwesomeIcon icon={faLinkedin} /></div>
+                <div className="nav-item__link--rs-icone nav-item__link--rs-icone-linkedin nav-linkedin"><FontAwesomeIcon icon={faLinkedin} /></div>
             </Link>
         </div>
     );

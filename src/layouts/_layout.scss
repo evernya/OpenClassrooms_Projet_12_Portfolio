@@ -1,3 +1,5 @@
+//LAYOUT COMPREND HEADER / FOOTER
+
 //HEADER
 .header-nav-box {
     position: fixed;
@@ -12,6 +14,7 @@
         flex-direction: column;
         padding-top: 20px;
         gap: 30px;
+        background-color: #dcdcdc;
     }
 }
 
@@ -37,21 +40,6 @@
     height: auto;
     width: 30px;
 }
-
-//ICON
-.nav-item__link--rs-icone{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80px;
-    width: 50px;
-
-    &-insta:hover{background: linear-gradient(#CC39A1, #FD533F, #FFD353);}
-
-    &-linkedin:hover{background: #0077B5;}
-}
-
-.fa-instagram, .fa-linkedin {font-size: 20px;}
 
 //FOOTER
 footer {
