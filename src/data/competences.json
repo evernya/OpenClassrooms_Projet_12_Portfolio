@@ -1,0 +1,69 @@
+{
+    "competences" : [
+        {
+            "title": "Photoshop",
+            "image": "https://i.ibb.co/prxR9j3/i-ps.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "Illustrator",
+            "image": "https://i.ibb.co/WxZBqDw/i-ai.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "In Design",
+            "image": "https://i.ibb.co/xq623qF/i-id.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "XD",
+            "image": "https://i.ibb.co/Cz1JxH5/i-xd.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "After Effect",
+            "image": "https://i.ibb.co/7SDttG1/ae.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "Premier Pro",
+            "image": "https://i.ibb.co/GTdjRBB/i-pr.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "Figma",
+            "image": "https://i.ibb.co/KzHMjmW/i-figma.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "Wordpress",
+            "image": "https://i.ibb.co/r6rZPKp/i-wordpress.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "React",
+            "image": "https://i.ibb.co/spfNZF4/i-react.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "HTML 5",
+            "image": "https://i.ibb.co/8x8SzZt/i-html.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "CSS 3",
+            "image": "https://i.ibb.co/JQXD8rX/i-css.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "Sass",
+            "image": "https://i.ibb.co/ZGZR9S3/i-sass.webp",
+            "alt": "pictures icone compétence"
+        },
+        {
+            "title": "Javascript",
+            "image": "https://i.ibb.co/PQPk1yg/i-js.webp",
+            "alt": "pictures icone compétence"
+        }        
+    ]
+}
