@@ -35,6 +35,9 @@
     @media screen and (max-width: $breakpoint-mobile) {justify-content: center;}
 }
 
-.navlink-active {font-weight: 700;}
+.link--pf-home-active {text-decoration: 4px overline #FCD7AA;}
+.link--pf-pf-active {text-decoration: 4px overline #F6B0A6;}
+.link--pf-about-active {text-decoration: 4px overline #FBC7C3;}
+.link--pf-contact-active {text-decoration: 4px overline #A593AA;}
 
 .nav-item__link--rs {display: flex;}   
