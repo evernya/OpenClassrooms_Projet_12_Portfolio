@@ -26,6 +26,7 @@ export default function Select() {
         <button onClick={() => handleChangeCategory('Édition')} className={`select__container--btn select__container--btn-edi ${selectedCategory === 'Édition' ? 'btn-edi-active' : ''}`}>Édition</button>
         <button onClick={() => handleChangeCategory('Illustration')} className={`select__container--btn select__container--btn-illu ${selectedCategory === 'Illustration' ? 'btn-illu-active' : ''}`}>Illustration</button>
         <button onClick={() => handleChangeCategory('Photo')} className={`select__container--btn select__container--btn-photo ${selectedCategory === 'Photo' ? 'btn-photo-active' : ''}`}>Photo</button>
+        <button onClick={() => handleChangeCategory('Web')} className={`select__container--btn select__container--btn-web ${selectedCategory === 'Web' ? 'btn-web-active' : ''}`}>Web</button>
         <button onClick={() => handleChangeCategory('Perso')} className={`select__container--btn select__container--btn-perso ${selectedCategory === 'Perso' ? 'btn-perso-active' : ''}`}>Perso</button>
 
       </div>
