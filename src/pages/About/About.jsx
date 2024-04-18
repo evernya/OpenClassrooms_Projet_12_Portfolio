@@ -1,9 +1,3 @@
-//IMPORT
-
-//PAGES
-
-//LAYOUTS
-
 //COMPONENTS
 import Banner from "../../components/Banner/Banner";
 import Competence from "../../components/Competences/Competence";
@@ -12,7 +6,8 @@ import Competence from "../../components/Competences/Competence";
 import competencesData from "../../data/competences.json";
 
 //ASSETS
-import bannerAbout from "../../assets/Banner_about.png";
+import bannerAbout from "../../assets/Banner_about.webp";
+import career from "../../assets/A-propos_parcours.webp";
 
 //CSS
 import "../../style/style.css";
@@ -20,10 +15,6 @@ import "../../style/style.css";
 
 
 function About() {
-    //state (état, données)
-
-    //comportement
-
     //affichage (render)
     return (
         <main className="about">
@@ -52,6 +43,12 @@ function About() {
                         <Competence key={index} image={competence.image} alt={competence.alt} title={competence.title} />
                     ))}
                 </div>
+            </section>
+
+            <section className="about__section--margin-comp">
+                <h3>Expériences</h3>
+
+               <img src={career} alt="Parcours scolaire" className="image-parcours" />
             </section>
         </main>
     );
