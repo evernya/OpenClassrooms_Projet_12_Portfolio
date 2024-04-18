@@ -6,7 +6,7 @@ import Liens from "../components/Navigation/Liens";
 import Reseau from "../components/Navigation/Reseau";
 
 //ASSETS
-import logo from "../assets/Logo_sansfond.png"
+import logo from "../assets/Logotype_ECYC.webp"
 
 //CSS
 import "../style/style.css";

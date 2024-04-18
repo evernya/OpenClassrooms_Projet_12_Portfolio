@@ -6,7 +6,7 @@ import Information from "../../components/Contact/Information";
 import Form from "../../components/Contact/Form"
 
 //ASSETS
-import bannerHome from "../../assets/Banner.png";
+import bannerHome from "../../assets/Banner_home.webp";
 
 //CSS
 import "../../style/style.css";
