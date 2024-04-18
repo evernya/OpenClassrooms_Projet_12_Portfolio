@@ -1,0 +1,201 @@
+//PROJET COMPREND HEADER, MAIN
+
+.project {
+
+    //HEADER
+    &__header {
+        position: absolute;
+        display: flex;
+        top: 0;
+        padding: 200px 324px;
+        width: 100%;
+        gap: 60px;
+
+        @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+            flex-direction: column;
+            padding: 100px 30px;
+        }
+
+        @media screen and (max-width: $breakpoint-mobile) {
+            flex-direction: column;
+            padding: 260px 30px 0 30px;
+        }
+
+        //TEXTE
+        &--text {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+            width: 50%;
+
+            @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+                width: 100%;
+            }
+
+            @media screen and (max-width: $breakpoint-mobile) {
+                width: 100%;
+            }
+
+            //TITRE
+            &-titre {
+                display: flex;
+                gap: 20px;
+
+                h2 {
+                    font-size: 2em;
+                    font-weight: 700;
+                    margin: 0;
+                }
+            }
+
+            //DESCRIPTION
+            &-description {
+                display: flex;
+                flex-direction: column;
+                gap: 35px;
+
+                &--paragraph {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 10px;
+                }
+            }
+
+            //BARRE
+            &-barre {
+                width: 100px;
+                height: 40px;
+                background-color: #000;
+
+                @media screen and (max-width: $breakpoint-mobile) {
+                    width: 50px;
+                }
+            }
+
+            span {
+                font-size: 1.2em;
+                font-weight: 700;
+            }
+
+            p {
+                font-size: 1em;
+                font-weight: 400;
+                text-align: justify;
+                margin: 0;
+            }
+        }
+
+        //IMG
+        &--img {
+            width: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+                width: auto;
+            }
+
+            @media screen and (max-width: $breakpoint-mobile) {
+                width: auto;
+            }
+
+            img {
+                height: 40vh;
+
+                @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+                    height: 15vh;
+                }
+
+                @media screen and (max-width: $breakpoint-mobile) {
+                    height: 25vh;
+                }
+            }
+        }
+    }
+
+    //MAIN
+    &__main {
+        margin: 100px 324px;
+        display: flex;
+        justify-content: center;
+
+        @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+            margin: 200px 30px;
+        }
+
+        @media screen and (max-width: $breakpoint-mobile) {
+            margin: 550px 30px auto;
+        }
+
+        img {
+            @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+                height: 50vh;
+            }
+
+            @media screen and (max-width: $breakpoint-mobile) {
+                height: 30vh;
+            }
+        }
+    }
+
+    //COLOR
+    &__color {
+        margin: 100px 324px;
+        display: flex;
+        justify-content: center;
+
+        @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+            margin: 100px 30px;
+        }
+
+        @media screen and (max-width: $breakpoint-mobile) {
+            margin: 50px 30px;
+        }
+
+        img {
+            @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+                height: 50vh;
+            }
+
+            @media screen and (max-width: $breakpoint-mobile) {
+                height: 30vh;
+            }
+        }
+    }
+}
+
+
+.projet-section-margin {
+    margin: 200px 324px;
+}
+
+.project__header--text-competence {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    &--container {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+.project__header--text-competence--image {
+    width: 8%;
+}
+
+.project__header--text-link {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    a{
+        color: #000;
+    }
+}
+
+.icone-link{
+    font-size: 20px;
+}
