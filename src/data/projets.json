@@ -1,0 +1,503 @@
+{
+    "projets": [
+        {
+            "id": "1",
+            "title": "Coniferous",
+            "cover": "https://i.ibb.co/dbpf3dN/1-mockup-Coniferous-vignette.webp",
+            "alt": "Coniferous",
+            "category": [
+                "Tout",
+                "Édition",
+                "Illustration"
+            ],
+            "image": "https://i.ibb.co/dPJRZ21/1-mockup-Coniferous-cover.webp",
+            "description": {
+                "title": "À propos",
+                "introduction": "La maison d'édition PYRAMYD lance une nouvelle collection de livres consacrée aux caractères typographiques et à leurs créateurs.",
+                "apropos": "James Edmondson est un créateur de caractères basé à Oakland, en Californie. \n\nIl a étudié le graphisme au California College of the Arts et a obtenu un diplôme du programme TypeMedia de la Royal Academy of Art aux Pays-Bas. Grâce à sa fonderie OH no Type Co. il crée des polices de caractères sur mesure.\n\n En 2018, James a co-fondé Future Fonts, une plateforme de distribution de polices de caractères en cours. Il enseigne la création de caractères dans le cadre du programme étendu de Type West et d'ateliers occasionnels ici et là.\n\n La typographie Coniferous est basé sur la signalisation des forêts nationales américaines qui dit « National Forest ». Cette police de caractères est une ode aux souvenirs d'enfance du créateur."
+            },
+            "competences":[
+                "https://i.ibb.co/CbmhL9J/i-id.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/NSq5Ns9/1-mockup-Coniferous-mockup.webp",
+                "https://i.ibb.co/p28CQ6D/1-mockup-Coniferous-mockup.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "2",
+            "title": "Canette",
+            "cover": "https://i.ibb.co/Y8GDmkj/2-mockup-canette-vignette.webp",
+            "alt": "Canette",
+            "category": [
+                "Tout",
+                "Photo"
+            ],
+            "image": "https://i.ibb.co/wKLjTMv/2-mockup-canette-cover.webp",
+            "description": {
+                "title": "",
+                "introduction": "Réplique d'une canette, création de son affiche et d'un mockup.",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/JxgjfLg/i-ps.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/ncTfq02/2-mockup-canette-entier.webp",
+                "https://i.ibb.co/wM9LsjX/2-mockup-canette-mockup.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "3",
+            "title": "Les silhouettes",
+            "cover": "https://i.ibb.co/0ngccKP/3-mockup-silhouette-vignette.webp",
+            "alt": "Les silhouettes",
+            "category": [
+                "Tout",
+                "Édition",
+                "Illustration"
+            ],
+            "image": "https://i.ibb.co/ZhgJ3YC/3-mockup-silhouette-cover.png",
+            "description": {
+                "title": "",
+                "introduction": "Représenter les formes d'un objet par ses silhouettes vectorielles et composer une affiche. \n\nEn concevoir un support original et d'impact : ludique ou informatif.",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp",
+                "https://i.ibb.co/CbmhL9J/i-id.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/W6pkcLv/3-mockup-silhouette-entier.webp",
+                "https://i.ibb.co/XzZTzLR/3-mockup-silhouette-mockup.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "4",
+            "title": "Les motifs",
+            "cover": "https://i.ibb.co/jrXxNbZ/4-mockup-motif-vignette.webp",
+            "alt": "Les motifs",
+            "category": [
+                "Tout",
+                "Photo"
+            ],
+            "image": "https://i.ibb.co/Rpm5qS3/4-mockup-motif-cover.webp",
+            "description": {
+                "title": "",
+                "introduction": "Créer un motif source non répété, monté à plusieurs échelles.",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp",
+                "https://i.ibb.co/JxgjfLg/i-ps.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/VJP7B3f/4-mockup-motif-entier-1.webp",
+                "https://i.ibb.co/KGDd8kb/4-mockup-motif-entier-2.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "5",
+            "title": "Mot comme image",
+            "cover": "https://i.ibb.co/SBQnz4d/5-mockup-mot-vignette.webp",
+            "alt": "Mot comme image",
+            "category": [
+                "Tout",
+                "Édition",
+                "Photo"
+            ],
+            "image": "https://i.ibb.co/DDqr3M3/5-mockup-mot-cover.webp",
+            "description": {
+                "title": "",
+                "introduction": "À partir d'un mot, illustrer ce dernier sans écrire ledit mot. L'une production doit être typographique. \n\nDécliner les productions entre elles par la suite, avec les mêmes contraintes.",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp",
+                "https://i.ibb.co/JxgjfLg/i-ps.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/Vjf8ssR/5-mockup-mot-entier-1.webp",
+                "https://i.ibb.co/W2YXrFL/5-mockup-mot-entier-2.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "6",
+            "title": "Affiche commerciale",
+            "cover": "https://i.ibb.co/PDMx0J6/6-mockup-voiture-vignette.webp",
+            "alt": "Affiche commerciale",
+            "category": [
+                "Tout",
+                "Édition",
+                "Illustration"
+            ],
+            "image": "https://i.ibb.co/m85TDkS/6-mockup-voiture-cover.webp",
+            "description": {
+                "title": "À propos",
+                "introduction": "Réalisation d'une affiche commerciale automobile en se réapproprient les codes graphiques des affiches suisse. \n\nÀ partir d'une illustration vectorielle d'un véhicule en volume et en nuances de gris, intégration du visuel dans une illustration abstraite, en aplat de couleurs pour supporter la composition.",
+                "apropos": "Le Fiat Multipla fait partie de la génération de monospaces familiaux compacts apparus à la fin des années 90, cartonnant alors sur le plan commercial. \n\nThe Sketch Monkey présente sa version moderne du monospace italien. Sa proposition n'est malheureusement que virtuelle, avec un style rompu aux technologies actuelles comme les optiques LED."
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/b5hBG3q/6-mockup-voiture-entier.webp",
+                "https://i.ibb.co/TYdJgzL/6-mockup-voiture-mockup.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "7",
+            "title": "Texte comme image",
+            "cover": "https://i.ibb.co/vQh0s3w/7-mockup-textecommeimage-vignette.webp",
+            "alt": "Texte comme image",
+            "category": [
+                "Tout",
+                "Édition"
+            ],
+            "image": "https://i.ibb.co/X4Q3LWv/7-mockup-texte-cover.webp",
+            "description": {
+                "title": "",
+                "introduction": "Réaliser une série de cartes postales mettant en avant la même citation, en utilisant la même typographie (créée ou adaptée), déclinée sur plusieurs mises en page différentes.",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/QjrnGB1/7-mockup-textecommeimage-entier-1.webp",
+                "https://i.ibb.co/4tDG02m/7-mockup-textecommeimage-entier-2.webp",
+                "https://i.ibb.co/MftMgzs/7-mockup-textecommeimage-entier-3.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "8",
+            "title": "Décastar",
+            "cover": "https://i.ibb.co/5FnQzr6/8-mockup-decastar-vignette.webp",
+            "alt": "Décastar",
+            "category": [
+                "Tout",
+                "Édition"
+            ],
+            "image": "https://i.ibb.co/JBNkkBh/8-mockup-decastar-cover.webp",
+            "description": {
+                "title": "À propos",
+                "introduction": "Illustrer un caractère typographique à partir d'une grille imposée pour concevoir le logotype Décastar et le principe de titrage. \n\nConcevoir une série de pictogrammes pour une représentation figurative schématisée les différentes épreuves du décathlon en se basant sur la même grille. \n\nAssurer la mise en page des 3 affiches en utilisant l'entièreté du langage graphique créé. ",
+                "apropos": "Le Décastar est un meeting international d'Épreuves Combinées qui accueille chaque année au stade Pierre Paul Bernard à Talence, les meilleurs athlètes mondiaux de la discipline."
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/yQfCHp7/8-mockup-decastar-entier-1.webp",
+                "https://i.ibb.co/dDgMHNt/8-mockup-decastar-entier-2.webp",
+                "https://i.ibb.co/n7sLTn1/8-mockup-decastar-entier-3.webp",
+                "https://i.ibb.co/qRC2026/8-mockup-decastar-mockup.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "9",
+            "title": "Les signes",
+            "cover": "https://i.ibb.co/9rD3pxY/9-mockup-les-signes-vignette.webp",
+            "alt": "Les signes",
+            "category": [
+                "Tout",
+                "Illustration"
+            ],
+            "image": "https://i.ibb.co/W3BRXvq/9-mockup-lessignes-cover.webp",
+            "description": {
+                "title": "À propos",
+                "introduction": "Le panneau revisité ; création de 9 panneaux en partant de formes et pictogramme existants et légendes. Histoire illustrée ; à partir de 9 pictogrammes, imaginer une histoire. ",
+                "apropos": "Cet exercice a été réalisé en groupe."
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp",
+                "https://i.ibb.co/CbmhL9J/i-id.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/rk48syx/9-mockup-lessignes-entier-1.webp",
+                "https://i.ibb.co/8Ygqw9Z/9-mockup-lessignes-entier-2.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "10",
+            "title": "'Everywhere' Adidas",
+            "cover": "https://i.ibb.co/xhLH4dw/10-mockup-adidas-vignette.webp",
+            "alt": "'Everywhere' Adidas",
+            "category": [
+                "Tout",
+                "Photo"
+            ],
+            "image": "https://i.ibb.co/PZWXxf6/10-mockup-adidas-cover.webp",
+            "description": {
+                "title": "",
+                "introduction": "Pour sa nouvelle campagne de publicité, Adidas souhaite produire des images de terrain de sport dans des lieux insolites aux 4 coins du monde, avec la mention « PARTOUT » traduite dans la langue locale. \n\nDessiner l'ombre portée des buts, paniers, filets, ou tout objet en volume faisant partie du terrain.",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/JxgjfLg/i-ps.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/SsBgbCD/10-mockup-adidas-entier.webp",
+                "https://i.ibb.co/ZfFr2sn/10-mockup-adidas-mockup.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "11",
+            "title": "Linogravure",
+            "cover": "https://i.ibb.co/v43FVHZ/11-mockup-linogravure-vignette.webp",
+            "alt": "Linogravure",
+            "category": [
+                "Tout",
+                "Perso"
+            ],
+            "image": "https://i.ibb.co/s3MpGc6/11-mockup-linogravure-cover.webp",
+            "description": {
+                "title": "",
+                "introduction": "Atelier de linogravure, dessin libre.",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/JxgjfLg/i-ps.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/QfW9Y3v/11-mockup-linogravure-1.webp",
+                "https://i.ibb.co/1GhF1hz/11-mockup-linogravure-2.webp",
+                "https://i.ibb.co/qNSb9Fm/11-mockup-linogravure-3.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "12",
+            "title": "Vinyle",
+            "cover": "https://i.ibb.co/cxHbcwp/12-mockup-vinyl-vignette.webp",
+            "alt": "Vinyle",
+            "category": [
+                "Tout",
+                "Perso"
+            ],
+            "image": "https://i.ibb.co/x2Vzjzr/12-mockup-vinyl-cover.webp",
+            "description": {
+                "title": "À propos",
+                "introduction": "Conception de la pochette d'un album.",
+                "apropos": "Lost on You est un album de la chanteuse LP, sorti le 9 décembre 2016."
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp",
+                "https://i.ibb.co/JxgjfLg/i-ps.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/44hvycS/12-mockup-vinyle-entier.webp",
+                "https://i.ibb.co/2YqPmV1/12-mockup-vinyle-mockup.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "13",
+            "title": "Escale du Livre",
+            "cover": "https://i.ibb.co/QHC0c70/13-mockup-escale-vignette.webp",
+            "alt": "Escale du Livre",
+            "category": [
+                "Tout",
+                "Édition",
+                "Illustration"
+            ],
+            "image": "https://i.ibb.co/KzXhzLh/13-mockup-escale-cover.webp",
+            "description": {
+                "title": "À propos",
+                "introduction": "Création de l'identité visuelle et promotionnelle de l'édition 2021 de l'escale du livre.",
+                "apropos": "L'escale du livre est une manifestation littéraire annuelle créée en 2002 à Bordeaux. Elle est organisée par l'association Escales Littéraires Bordeaux Aquitaine. \n\nLa manifestation propose : \n- un salon littéraire regroupant des stands loués par des libraires ou des maisons d'éditions dédiés à la littérature jeunesse et adulte ; \n- un festival culturel tourné autour de rencontres, de lectures, de spectacles, etc. \n\nDurant l'Escale du Livre sont remis les prix des lecteurs et des lycéens."
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp",
+                "https://i.ibb.co/CbmhL9J/i-id.webp",
+                "https://i.ibb.co/JxgjfLg/i-ps.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/jLVVR6B/13-mockup-escale-entier.webp",
+                "https://i.ibb.co/nmd3Zcd/13-mockup-escale-mockup.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "14",
+            "title": "Equitea",
+            "cover": "https://i.ibb.co/gj2yMxf/14-mockup-equitea-vignette.webp",
+            "alt": "Equitea",
+            "category": [
+                "Tout",
+                "Édition",
+                "Illustration"
+            ],
+            "image": "https://i.ibb.co/Fq6bqzV/14-mockup-equitea-cover.webp",
+            "description": {
+                "title": "À propos",
+                "introduction": "Formaliser une réponse argumentée et baser sa direction artistique autour des notions d'éco-responsabilité; de qualité et de bien-être. \n\nConcevoir une identité visuelle mémorisable, valorisante et fédératrice des valeurs de la marque Équitea.",
+                "apropos": "Équitea, marque française éco-responsable fondée en 1998, propose une sélection d'infusions et de thés biologiques transformés artisanalement. La marque met un point d'honneur à ne vendre que des thés et infusions de qualité issus de plantes sans traitement chimique, sans OGM avec des arômes naturels. \n\nCette marque de thé bio cherche à satisfaire 4 niveaux d'exigences : \n- Bon : finesse, originalité des saveurs ; \n- Sain : antioxydants , diurétique ; \n- Esthétique : thés sculptés, fleurs, pétales colorées, écorces, épices; \n- Engagé : protection de l'environnement, respectueux des hommes et de la nature. "
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp",
+                "https://i.ibb.co/CbmhL9J/i-id.webp",
+                "https://i.ibb.co/JxgjfLg/i-ps.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/5Kz38z8/14-mockup-equitea-entier-1.webp",
+                "https://i.ibb.co/hXSxBJz/14-mockup-equitea-entier-2.webp",
+                "https://i.ibb.co/DrsbZz0/14-mockup-equitea-entier-3.webp",
+                "https://i.ibb.co/kDxZXHR/14-mockup-equitea-entier-4.webp",
+                "https://i.ibb.co/7vTfb45/14-mockup-equitea-mockup-1.webp",
+                "https://i.ibb.co/hm2ym58/14-mockup-equitea-mockup-2.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "15",
+            "title": "Théâtre des Salinières",
+            "cover": "https://i.ibb.co/R9TX4ch/15-mockup-TDS-vignette.webp",
+            "alt": "Théâtre des Salinières",
+            "category": [
+                "Tout",
+                "Édition",
+                "Illustration"
+            ],
+            "image": "https://i.ibb.co/kJ1FJtP/15-mockup-TDS-cover.webp",
+            "description": {
+                "title": "À propos",
+                "introduction": "Création de l'identité visuelle et promotionnelle de la saison 2021-2022 du Théâtre des Salinières de Bordeaux.",
+                "apropos": "Le Théâtre des Salinières, créé en 1998, est un établissement privé, avec une salle chaleureuse de 280 fauteuils, situé au cœur du vieux Bordeaux. \n\nIl prone les valeurs d'ouverture d'esprit et de refus du cloisonnement des genres et produit des spectacles sans mépris ni censure. \n\nCe théâtre de divertissement, qui bénéficie d'une notoriété croissante, réunit chaque année plus de 30 000 spectateurs avec 18 grandes comédies, en productions propres, proposées tout au long de la saison. À cela, il faut rajouter une centaine de dates de tournées dans toute la région. "
+            },
+            "competences":[
+                "https://i.ibb.co/9WxnKdT/i-ai.webp",
+                "https://i.ibb.co/CbmhL9J/i-id.webp",
+                "https://i.ibb.co/JxgjfLg/i-ps.webp",
+                "https://i.ibb.co/564W01b/i-xd.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/cvmWDrT/15-mockup-TDS-entier-2.webp",
+                "https://i.ibb.co/5BNvkPt/16-mockup-TDS-mockup-1.webp",
+                "https://i.ibb.co/qmJksCh/15-mockup-TDS-entier-3.webp",
+                "https://i.ibb.co/QPr046n/15-mockup-TDS-mockup-2.webp",
+                "https://i.ibb.co/856YBVN/15-mockup-TDS-mockup-3.webp",
+                "https://i.ibb.co/nmkvKXV/15-mockup-TDS-mockup-4.webp",
+                "https://i.ibb.co/MGyx7KW/15-mockup-TDS-mockup-5.webp",
+                "https://i.ibb.co/71MSrW3/15-mockup-TDS-mockup-6.webp",
+                "https://i.ibb.co/GFnrb1g/15-mockup-TDS-mockup-7.webp"
+            ],
+            "lien": {
+                "title": "",
+                "url" : ""
+            }
+        },
+        {
+            "id": "16",
+            "title": "Oh my Food",
+            "cover": "https://i.ibb.co/n7LvH5c/16-mockup-ohmyfood-vignette.webp",
+            "alt": "Oh my Food",
+            "category": [
+                "Tout",
+                "Web"
+            ],
+            "image": "https://i.ibb.co/HPzgzs3/Ohmyfood-mockup-cover.webp",
+            "description": {
+                "title": "",
+                "introduction": "Intégration d'une maquette en mobile-first, en utilisant Sass, avec des implentations animations CSS",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/rdPtf1S/i-html.webp",
+                "https://i.ibb.co/Zfrt4J2/i-css.webp",
+                "https://i.ibb.co/kGL5rBq/i-sass.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/CMYDBS7/Ohmyfood-mockup-1.webp",
+                "https://i.ibb.co/9sBfB9P/Ohmyfood-mockup-2.webp"
+            ],
+            "lien": {
+                "title": "Liens",
+                "url" : "https://ecycopenclassroomsp4ohmyfood.vercel.app/"
+            }
+        },
+        {
+            "id": "17",
+            "title": "Kasa",
+            "cover": "https://i.ibb.co/n6xHn65/17-mockup-Kasa-vignette.webp",
+            "alt": "Kasa",
+            "category": [
+                "Tout",
+                "Web"
+            ],
+            "image": "https://i.ibb.co/JyZyH5X/Kasa-mockup-cover.webp",
+            "description": {
+                "title": "",
+                "introduction": "Implémenter le front-end d'une application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive.",
+                "apropos": ""
+            },
+            "competences":[
+                "https://i.ibb.co/rdPtf1S/i-html.webp",
+                "https://i.ibb.co/Zfrt4J2/i-css.webp",
+                "https://i.ibb.co/kGL5rBq/i-sass.webp",
+                "https://i.ibb.co/sJZfMK2/i-js.webp",
+                "https://i.ibb.co/9H98t6f/i-react.webp"
+            ],
+            "pictures": [
+                "https://i.ibb.co/rs3dbhv/Kasa-mockup-1.webp",
+                "https://i.ibb.co/fpHLftt/Kasa-mockup-2.webp"
+            ],
+            "lien": {
+                "title": "Liens",
+                "url" : "https://open-classrooms-projet-8-kasa.vercel.app/"
+            }
+        }
+    ]
+}

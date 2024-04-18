@@ -2,67 +2,67 @@
     "competences" : [
         {
             "title": "Photoshop",
-            "image": "https://i.ibb.co/prxR9j3/i-ps.webp",
+            "image": "https://i.ibb.co/JxgjfLg/i-ps.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "Illustrator",
-            "image": "https://i.ibb.co/WxZBqDw/i-ai.webp",
+            "image": "https://i.ibb.co/9WxnKdT/i-ai.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "In Design",
-            "image": "https://i.ibb.co/xq623qF/i-id.webp",
+            "image": "https://i.ibb.co/CbmhL9J/i-id.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "XD",
-            "image": "https://i.ibb.co/Cz1JxH5/i-xd.webp",
+            "image": "https://i.ibb.co/564W01b/i-xd.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "After Effect",
-            "image": "https://i.ibb.co/7SDttG1/ae.webp",
+            "image": "https://i.ibb.co/M1cHphr/i-ae.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "Premier Pro",
-            "image": "https://i.ibb.co/GTdjRBB/i-pr.webp",
+            "image": "https://i.ibb.co/8KzMjV5/i-pr.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "Figma",
-            "image": "https://i.ibb.co/KzHMjmW/i-figma.webp",
+            "image": "https://i.ibb.co/GCSSnB6/i-figma.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "Wordpress",
-            "image": "https://i.ibb.co/r6rZPKp/i-wordpress.webp",
+            "image": "https://i.ibb.co/yg9P434/i-wordpress.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "React",
-            "image": "https://i.ibb.co/spfNZF4/i-react.webp",
+            "image": "https://i.ibb.co/9H98t6f/i-react.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "HTML 5",
-            "image": "https://i.ibb.co/8x8SzZt/i-html.webp",
+            "image": "https://i.ibb.co/rdPtf1S/i-html.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "CSS 3",
-            "image": "https://i.ibb.co/JQXD8rX/i-css.webp",
+            "image": "https://i.ibb.co/Zfrt4J2/i-css.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "Sass",
-            "image": "https://i.ibb.co/ZGZR9S3/i-sass.webp",
+            "image": "https://i.ibb.co/kGL5rBq/i-sass.webp",
             "alt": "pictures icone compétence"
         },
         {
             "title": "Javascript",
-            "image": "https://i.ibb.co/PQPk1yg/i-js.webp",
+            "image": "https://i.ibb.co/sJZfMK2/i-js.webp",
             "alt": "pictures icone compétence"
         }        
     ]
