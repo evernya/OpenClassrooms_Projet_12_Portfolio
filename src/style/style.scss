@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;700&display=swap');
+
+//UTILS
+@import "../style/Utils/variable";
+
+//IMPORT CSS AUTRE FICHIER
+
+//PAGES
+@import "../pages/About/about";
+@import "../pages/Projet/projet";
+@import "../pages/Error/error";
+
+//LAYOUT
+@import "../layouts/layout";
+
+//COMPONENTS
+@import "../components/Banner/Banner";
+@import "../components/Filter/filter";
+@import "../components/Contact/contact";
+@import "../components/Competences/competence";
+@import "../components/Navigation/navigation";
+
+
+
+html{scroll-behavior: smooth; top: 0;}
+
+*{box-sizing: border-box;}
+
+body{
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.section--margin{
+    margin: 0 324px;
+
+    @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {margin: 30px; gap: 30px;}
+
+    @media screen and (max-width: $breakpoint-mobile) {margin: 0 20px; flex-direction: column; gap: 0px;}
+}
+
+//LIEN
+header a, footer a, .contact a {
+    color: #000;
+    text-decoration: none;
+}
+
+///
+footer h5{
+    font-size: 1em;
+    margin: 0;
+}
+
+footer p{
+    font-size: 0.8em;
+    margin: 60px 0 0 20px;
+}
+
+h3{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+
+
+
+// @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
+    
+// }
+
+// @media screen and (max-width: $breakpoint-mobile) {
+   
+// }
+
+
+
+
+
+

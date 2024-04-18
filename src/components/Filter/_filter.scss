@@ -32,15 +32,15 @@
 .gallery {
     margin: 0 324px;
     display: inline-flex;
-    justify-content: center;
+    justify-content: start;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 16px;
 
-    @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {margin: 0;}
+    @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {justify-content: center; margin: 0;}
     @media screen and (max-width: $breakpoint-mobile) {margin: 0;}
 
     &__container {
-        width: 30%;
+        width: 31%;
         margin: 0;
 
         @media screen and (max-width: $breakpoint-mobile) {width: 100%;}
@@ -54,6 +54,8 @@
         display: flex;
         justify-content: center;
 
+        @media screen and (max-width: $breakpoint-mobile) {flex-wrap: wrap;}
+
         &--btn {
             border: none;
             margin: 100px 25px 50px 25px;
@@ -65,13 +67,14 @@
             cursor: pointer;
 
             @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {margin: 50px 10px;}
-            @media screen and (max-width: $breakpoint-mobile) {margin: 50px 10px;}
+            @media screen and (max-width: $breakpoint-mobile) {margin: 10px;}
 
             &-t{&:hover, &:focus, &:active {text-decoration: 4px overline #6C757D;}}
             &-edi{&:hover, &:focus {text-decoration: 4px overline #C7D7F2;}}
             &-illu{&:hover, &:focus {text-decoration: 4px overline #AAD4D0;}}
             &-photo{&:hover, &:focus {text-decoration: 4px overline #CFECCE;}}
-            &-perso{&:hover, &:focus {text-decoration: 4px overline #E8E5A9;}}
+            &-web{&:hover, &:focus {text-decoration: 4px overline #E8E5A9;}}
+            &-perso{&:hover, &:focus {text-decoration: 4px overline #F6B0A6;}}
         }
     }
 }
@@ -80,4 +83,5 @@
 .btn-edi-active{text-decoration: 4px overline #C7D7F2;}
 .btn-illu-active{text-decoration: 4px overline #AAD4D0;}
 .btn-photo-active{text-decoration: 4px overline #CFECCE;}
-.btn-perso-active{text-decoration: 4px overline #E8E5A9;}
+.btn-web-active{text-decoration: 4px overline #E8E5A9;}
+.btn-perso-active{text-decoration: 4px overline #F6B0A6;}
