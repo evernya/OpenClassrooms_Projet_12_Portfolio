@@ -10,12 +10,20 @@ import "../../style/style.css";
 
 
 export default function Gallery({filteredProject}) {
+  //comportement
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  };
+
   //affichage (render)
   return (
     <div className='gallery'>
-      {filteredProject.map((project) => (
-          <figure key={project} className='gallery__container'>
-            <Link to={`/projet/${project.id}/${project.title}`}>
+      {filteredProject.map((project, i) => (
+          <figure key={i} className='gallery__container'>
+            <Link onClick={scrollToTop} to={`/projet/${project.id}`}>
               <Card cover={project.cover} alt={project.alt} title={project.title} />
             </Link>
           </figure>
