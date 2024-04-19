@@ -7,7 +7,10 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLink } from '@fortawesome/free-solid-svg-icons';
 
 //COMPONENTS
-import BannerProject from "../../components/Banner/BannerProject";
+import Banner from "../../components/Banner/Banner";
+
+//ASSETS
+import bannerProject from "../../assets/Banner_projet.webp";
 
 //DATA
 import dataProjets from "../../data/projets.json";
@@ -57,7 +60,7 @@ function Projet() {
     //affichage (render)
     return (
         <main className="project">
-            <BannerProject />
+            <Banner bannerImage={bannerProject} bannerAlt={"Bannière de la page projet"} bannerClass={"banner-project__img"} />
 
             <section className="project__header">
                 <div className="project__header--text">
