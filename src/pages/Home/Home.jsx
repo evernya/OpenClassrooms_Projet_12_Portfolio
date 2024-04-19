@@ -15,7 +15,7 @@ function Home() {
     //affichage (render)
     return (
         <main>
-            <section>
+            <section id="home">
                 <Banner bannerImage={bannerHome} bannerAlt={"Bannière de la page accueil"} bannerClass={"banner__img banner__img--home"} />
                 <BannerHome />
             </section>

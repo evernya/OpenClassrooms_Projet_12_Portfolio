@@ -29,7 +29,7 @@ export default function Navigation() {
     //affichage (render)
     return (
         <div className="nav-item__link--pf">
-            <NavLink to="/" onClick={() => scrollToTop} className={({ isActive }) => `nav-item__link--pf-home ${isActive ? 'link--pf-home-active' : ''}`}>Accueil</NavLink>
+            <NavLink to="/" onClick={(event) => {scrollToTop(); handleNavigate('home');}} className={({ isActive }) => `nav-item__link--pf-home ${isActive ? 'link--pf-home-active' : ''}`}>Accueil</NavLink>
             <NavLink to="/#PF" onClick={() => handleNavigate('PF')} className={({ isActive }) => `nav-item__link--pf-pf ${isActive ? 'link--pf-pf-active' : ''}`}>Portfolio</NavLink>
             <NavLink to="/about" onClick={() => scrollToTop} className={({ isActive }) => `nav-item__link--pf-about ${isActive ? 'link--pf-about-active' : ''}`}>À propos</NavLink>
             <NavLink to="/#contact" onClick={() => handleNavigate('contact')} className={({ isActive }) => `nav-item__link--pf-contact ${isActive ? 'link--pf-contact-active' : ''}`}>Contact</NavLink>
