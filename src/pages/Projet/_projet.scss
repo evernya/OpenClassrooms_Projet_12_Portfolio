@@ -101,15 +101,7 @@
             }
 
             img {
-                height: 40vh;
-
-                @media screen and (min-width: $breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max) {
-                    height: 15vh;
-                }
-
-                @media screen and (max-width: $breakpoint-mobile) {
-                    height: 25vh;
-                }
+                width: 50%;
             }
         }
     }
